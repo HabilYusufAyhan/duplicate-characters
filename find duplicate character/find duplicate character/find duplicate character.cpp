@@ -8,7 +8,7 @@ int main()
     int count;
 
     printf("Duplicate characters in a given string: \n");
-    printf("enter your tet(max 20 characters)");
+    printf("enter your text(max 20 characters)");
     scanf_s("%s", string, sizeof string);
     
     for (int i = 0; i < strlen(string); i++) {

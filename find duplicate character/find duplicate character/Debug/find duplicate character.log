@@ -1,0 +1,4 @@
+﻿  find duplicate character.cpp
+C:\Users\habil\OneDrive\Masaüstü\kod\find duplicate character\find duplicate character\find duplicate character.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\habil\OneDrive\Masaüstü\kod\find duplicate character\find duplicate character\find duplicate character.cpp(16,31): warning C4018: '<': signed/unsigned mismatch
+  find duplicate character.vcxproj -> C:\Users\habil\OneDrive\Masaüstü\kod\find duplicate character\Debug\find duplicate character.exe

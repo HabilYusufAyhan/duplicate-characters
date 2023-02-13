@@ -1,4 +1,4 @@
 # duplicate-characters
 
 
-deneme
+finds duplicate character
